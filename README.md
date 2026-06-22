@@ -1,5 +1,3 @@
-Here's a README draft that would work well for the Git repository behind the project.
-
 # Origen's *On First Principles* — Modern Daily Reading Edition
 
 A modern daily reading adaptation of Origen of Alexandria's *On First Principles*.
